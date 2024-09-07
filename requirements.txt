@@ -1,0 +1,9 @@
+opencv-python
+mtcnn
+cmake
+dlib
+tensorflow
+opencv-python
+ultralytics
+matplotlib
+numpy
